@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace MvcMovie.Controllers
 {
-    public class WorldHelloController : Controller
+    public class HelloWorldController : Controller
     {
         // GET: HelloWorld
         public string Index()
